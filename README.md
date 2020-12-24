@@ -1,14 +1,13 @@
-<h1>Hi there 👋🏻!</h1>
-<h3>I’m Andrés Hurtado!</h3>
+# Hi there 👋🏻!
 
+**I’m Andrés Hurtado!**
 - 💻 Full Stack Developer .
 - ❤️ Open Source Lover ❤️
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**. 
 
-<hr>
+# I work with 
 
-### I work with 
-<p align="left">
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJs" width="50"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/> 
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50"/> 
@@ -16,38 +15,38 @@
   <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="Telegram" width="50"/>
 </p>
 
-<hr>
+# My Stats 
 
-### My Stats 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=OsiNubis99&show_icons=true)](https://github.com/OsiNubis99)
+[![Stats Card](https://github-readme-stats.vercel.app/api?username=OsiNubis99&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)](https://github.com/OsiNubis99)
 
-<hr>
+# My Top Lang 
 
-### My Top Lang 
+<p>
+  Well, Here are top 4 langs I used in my projects!
+</p>
 
-<p>Well , Here are top langs I used in my projects !</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsiNubis99&langs_count=4&theme=darcula&layout=compact)](https://github.com/OsiNubis99)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsiNubis99&layout=compact)](https://github.com/OsiNubis99)
+# Find me 
 
-<hr>
+## Social medias:
 
-### Find me 
-<p><b>Social medias :</b></p>
+<p align="center">
+  <a href="https://t.me/OsiNubis99">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="telegram" width="50"/>
+  </a>
+  <a href="https://twitter.com/OsiNubis99">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="50"/>
+  </a>
+</p>
 
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="50"/>](https://twitter.com/OsiNubis99)
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="50"/>](https://t.me/OsiNubis99)
+## Email:
 
-<p><b>Email :</b></p>
+My email address AHurtado.WC@gmail.com
 
-- 📫 How to reach me !?
-- Email is the best way , my email address AHurtado.WC@gmail.com
+# I've worked with 
 
-<hr>
-
-### I've worked with 
 <ul>
     <li>My Real Friend: <b><a href="https://github.com/Joangelr28">Joangel Reyes</a></b> 🌟</li>
     <li>Our organization: <b><a href="https://github.com/WolfsCodes">Wolf's Codes</a></b> 🐺</li>
 </ul>
-
-<hr>
