@@ -42,11 +42,4 @@
 
 ## Email:
 
-My email address AHurtado.WC@gmail.com
-
-# I've worked with 
-
-<ul>
-    <li>My Real Friend: <b><a href="https://github.com/Joangelr28">Joangel Reyes</a></b> 🌟</li>
-    <li>Our organization: <b><a href="https://github.com/WolfsCodes">Wolf's Codes</a></b> 🐺</li>
-</ul>
+My email address OsiNubis99@PM.me
