@@ -27,7 +27,7 @@
 
 ## My Stats
 
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=OsiNubis99&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)](https://github.com/OsiNubis99)
+[![Stats Card](https://github-readme-stats.vercel.app/api?username=OsiNubis99&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)](https://github.com/OsiNubis99?tab=repositories)
 
 ## My Top Lang
 
