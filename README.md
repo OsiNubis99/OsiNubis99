@@ -35,6 +35,12 @@ Well, Here are top 6 langs I used in my projects!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsiNubis99&langs_count=6&theme=darcula&layout=compact)](https://github.com/OsiNubis99?tab=repositories)
 
+## My Last Week
+
+And here's how much time I spend on my projects by languages per week!
+
+[![Time Langs](https://github-readme-stats.vercel.app/api/wakatime?username=OsiNubis99&layout=compact&theme=darcula)](https://github.com/OsiNubis99?tab=repositories)
+
 ## Find me
 
 ### Social medias
