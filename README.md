@@ -50,4 +50,4 @@ And here's how much time I spend on my projects by languages per week!
 
 ### Email
 
-My email address OsiNubis99@PM.me
+My email address AHurtado.WC@gmail.com
