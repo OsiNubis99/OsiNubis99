@@ -13,7 +13,9 @@
 [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](https://discord.com/developers/docs/intro)
 [![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com)
+[![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg)](https://www.haskell.org)
 [![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)](https://html.com/html5)
+[![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)](https://www.java.com)
 [![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://www.javascript.com)
 [![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)](https://laravel.com)
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)](https://www.mysql.com)
@@ -50,4 +52,4 @@ And here's how much time I spend on my projects by languages per week!
 
 ### Email
 
-My email address AHurtado.WC@gmail.com
+My email address Ahurtado.WC@Gmail.com
