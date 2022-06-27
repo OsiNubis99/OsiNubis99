@@ -52,4 +52,4 @@ And here's how much time I spend on my projects by languages per week!
 
 ### Email
 
-My email address Ahurtado.WC@Gmail.com
+My email address AHurtado.WC@gmail.com
