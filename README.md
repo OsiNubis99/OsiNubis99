@@ -26,7 +26,7 @@
 [![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org)
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org)
 [![Telegram](https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg)](https://core.telegram.org/bots/api)
-[![Typescript](https://www.vectorlogo.zone/logos/typescricplang/typescricplang-icon.svg)](https://www.typescricplang.org)
+[![Typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org)
 [![Vue](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)](https://vuejs.org)
 
 ## My Stats
