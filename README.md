@@ -8,10 +8,10 @@
 
 ## I work with
 
-[![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)](https://getbootstrap.com)
 [![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://www.dart.org)
 [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](https://discord.com/developers/docs/intro)
 [![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)
+[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com)
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com)
 [![Haskell](https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg)](https://www.haskell.org)
 [![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)](https://html.com/html5)
@@ -19,12 +19,14 @@
 [![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://www.javascript.com)
 [![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)](https://laravel.com)
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)](https://www.mysql.com)
+[![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)](https://www.mongodb.com)
 [![Node](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)](https://nodejs.org)
+[![NestJs](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)](https://nestjs.com)
 [![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)](https://www.php.net)
 [![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org)
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.python.org)
-[![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)](https://reactjs.org)
 [![Telegram](https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg)](https://core.telegram.org/bots/api)
+[![Typescript](https://www.vectorlogo.zone/logos/typescricplang/typescricplang-icon.svg)](https://www.typescricplang.org)
 [![Vue](https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg)](https://vuejs.org)
 
 ## My Stats
@@ -33,9 +35,9 @@
 
 ## My Top Lang
 
-Well, Here's top 6 languages I used in my projects!
+Well, Here's top 10 languages I used in my projects!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsiNubis99&langs_count=6&theme=darcula&layout=compact)](https://github.com/OsiNubis99?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsiNubis99&langs_count=10&theme=darcula&layout=compact)](https://github.com/OsiNubis99?tab=repositories)
 
 ## My Last Week
 
