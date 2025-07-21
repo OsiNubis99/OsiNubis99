@@ -8,7 +8,7 @@
 
 ## I work with
 
-[![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://www.dart.org)
+[![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://www.dart.dev)
 [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](https://discord.com/developers/docs/intro)
 [![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)
 [![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com)
