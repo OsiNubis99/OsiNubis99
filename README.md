@@ -45,7 +45,7 @@ Well, here are the top 10 languages I used in my projects!
 
 And here's how much time I spend on my projects by language!
 
-[![Time Langs](https://github-stats-extended.vercel.app/api/wakatime?username=OsiNubis99&layout=compact&theme=darcula)](https://github.com/OsiNubis99?tab=repositories)
+[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=OsiNubis99&theme=darcula)](https://wakatime.com/@OsiNubis99)
 
 ## Find me
 
